@@ -9,7 +9,7 @@
 
 ### The challenge
 
-[] Add a component for CTAs
-[] Successfully query CTA from Contentful
-[] Add the CTA from Contentful to the homepage
-[] Add a CTA to page-2
+- Add a component for CTAs
+- Successfully query CTA from Contentful
+- Add the CTA from Contentful to the homepage
+- Add a CTA to page-2
